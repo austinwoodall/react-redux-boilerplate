@@ -1,2 +1,2 @@
-React-Redux Boilerplate
-Starter boilerplate for projects with using functional components in mind
+#React-Redux Webpack Boilerplate
+A starter boilerplate for building web applications 
